@@ -4,7 +4,7 @@
 var username = '';
 
 //  Task 02
-var myName = 'Muhammad hammad uddin';
+var myName = 'Tulaib Ahmed Siddiqui';
 
 // Task 03
 var message = "Hello World";
@@ -23,7 +23,7 @@ recipe = "PIZZA";
 alert(recipe + "\n" + recipe.slice(0, 4) + "\n" + recipe.slice(0, 3) + "\n" + recipe.slice(0, 2) + "\n" + recipe.charAt(0));
 
 // Task 06
-email = 'mohammadhammad2398@gmail.com';
+email = 'tulluahsid@gmail.com';
 alert('My email address is ' + email);
 
 // Task 07
